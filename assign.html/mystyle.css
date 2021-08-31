@@ -1,0 +1,57 @@
+* {
+    padding: 0;
+    margin: auto;
+}
+body {
+    background-image: url(./asst/IMG_20210713_144725_782~2.jpg);
+    border-image-width: auto;
+    background-size: cover;
+    height: 100vh;
+    width: auto;
+    display: grid;
+    align-items: center;
+    
+}
+.Heading {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    justify-content: center;
+
+}
+
+.class-section{
+    padding: 10;
+    display: grid;
+    width: fit-content;
+    justify-content: center;
+}
+/*.mubarak{
+    padding: 10px 20px;
+    margin: 0 0px;
+    display: flex;
+    height: 100px;
+    width: 100px;
+    flex-direction: row;
+    justify-content: right;
+}
+.cephas{
+    padding: 20px 10px;
+    display: flex;
+    margin: 0;
+    height: 100px;
+    width: 100px;
+    float: right;
+    margin-top: 10px;
+    justify-content: left;
+ 
+
+}*/
+.img{
+    display: flex;
+    height: auto;
+    width: 150;
+    flex-direction: row;
+    margin:auto ;
+    padding: 50;
+}
